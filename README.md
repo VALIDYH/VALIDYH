@@ -1,82 +1,113 @@
-<h1 align="center">¡Hola! 👋 Soy Jhon Eddy</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingeniería;Desarrollador+en+aprendizaje;Amante+del+Anime+y+Minecraft;Apasionado+por+la+IA+y+la+Programación" />
-</p>
+# CYAN // JHON EDDY
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Ingeniería+de+Sistemas;Python+%7C+Android+%7C+SQL;Desarrollo+de+Software;Inteligencia+Artificial;Siempre+Aprendiendo" />
 
-## 🚀 Sobre mí
-
-🎓 Estudiante universitario
-
-💻 Interesado en:
-- Desarrollo de Software
-- Inteligencia Artificial
-- Automatización con Python
-- Aplicaciones Android
-
-🎮 Fan de Minecraft, Anime y Tecnología
+</div>
 
 ---
 
-## 🛠 Tecnologías
+## ▌IDENTIDAD
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql,sqlite,git,github,vscode,androidstudio" />
-
-</p>
-
----
-
-## 📊 Estadísticas
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</p>
+```txt
+Nombre     : Jhon Eddy Ramirez Churacutipa
+Alias      : Cyan
+Ubicación  : Perú
+Estado     : Aprendiendo y construyendo proyectos
+```
 
 ---
 
-## 🔥 Racha de contribuciones
+## ▌ACTUALMENTE
 
-<p align="center">
+◈ Aplicaciones Android Offline
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight"/>
+◈ Sistemas de Gestión con SQL Server
 
-</p>
+◈ Inteligencia Artificial
 
----
+◈ Automatización con Python
 
-## 🌌 Proyecto Personal
+◈ Métodos Numéricos
 
-Actualmente trabajo en:
-
-✨ Aplicaciones Android
-
-✨ Sistemas con Python
-
-✨ Automatización de procesos
-
-✨ Herramientas basadas en IA
+◈ Investigación Operativa
 
 ---
 
-## 📫 Contacto
+## ▌TECNOLOGÍAS
 
-📧 jhon.eddy.ramirez2808@gmail.com
+<div align="center">
 
-💼 GitHub: https://github.com/Mity-Devegolpe
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,sqlite,androidstudio,vscode,git,github" />
 
+</div>
 
 ---
 
-<p align="center">
+## ▌ESTADÍSTICAS
 
-⚡ "La práctica constante supera al talento sin disciplina."
+<div align="center">
 
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jhoncenalvcmitystudy&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncenalvcmitystudy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## ▌RACHA
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncenalvcmitystudy&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## ▌PROYECTOS DESTACADOS
+
+◆ Android Studio
+
+◆ Python Automation
+
+◆ SQL Server
+
+◆ WhisperX + IA
+
+◆ Aplicaciones Offline
+
+---
+
+## ▌CONTACTO
+
+Correo:
+
+```txt
+jhon.eddy.ramirez2808@gmail.com
+```
+
+GitHub:
+
+```txt
+https://github.com/jhoncenalvcmitystudy
+```
+
+---
+
+<div align="center">
+
+```txt
+██████╗██╗   ██╗ █████╗ ███╗   ██╗
+██╔════╝╚██╗ ██╔╝██╔══██╗████╗  ██║
+██║      ╚████╔╝ ███████║██╔██╗ ██║
+██║       ╚██╔╝  ██╔══██║██║╚██╗██║
+╚██████╗   ██║   ██║  ██║██║ ╚████║
+ ╚═════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+Cyan Developer Profile
+
+</div>
