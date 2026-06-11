@@ -1,37 +1,31 @@
 <div align="center">
 
-# CYAN // JHON EDDY
+<img src="https://raw.githubusercontent.com/jhoncenalvcmitystudy/jhoncenalvcmitystudy/main/assets/profile.png" width="260">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Ingeniería+de+Sistemas;Python+%7C+Android+%7C+SQL;Desarrollo+de+Software;Inteligencia+Artificial;Siempre+Aprendiendo" />
+# MITY-STUDIO
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Software+Developer;Android+Developer;Python+Developer;Artificial+Intelligence;Mity-Studio" />
 
 </div>
 
 ---
 
-## ▌IDENTIDAD
+## ▌PERFIL
 
-```txt
-Nombre     : Jhon Eddy Ramirez Churacutipa
-Alias      : Cyan
-Ubicación  : Perú
-Estado     : Aprendiendo y construyendo proyectos
+```yaml
+Nombre: Jhon Eddy Ramirez Churacutipa
+Alias: Cyan
+GitHub: jhoncenalvcmitystudy
+País: Perú
+
+Intereses:
+  - Inteligencia Artificial
+  - Desarrollo Android
+  - Automatización
+  - Sistemas de Gestión
+  - Bases de Datos
+  - Videojuegos
 ```
-
----
-
-## ▌ACTUALMENTE
-
-◈ Aplicaciones Android Offline
-
-◈ Sistemas de Gestión con SQL Server
-
-◈ Inteligencia Artificial
-
-◈ Automatización con Python
-
-◈ Métodos Numéricos
-
-◈ Investigación Operativa
 
 ---
 
@@ -39,9 +33,25 @@ Estado     : Aprendiendo y construyendo proyectos
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,sqlite,androidstudio,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,sqlite,firebase,git,github,vscode,visualstudio,androidstudio,linux"/>
 
 </div>
+
+---
+
+## ▌PROYECTOS
+
+◈ Aplicaciones Android Offline
+
+◈ Sistemas de Gestión con SQL Server
+
+◈ Automatización con Python
+
+◈ Procesamiento de Audio con WhisperX
+
+◈ IA aplicada a herramientas de productividad
+
+◈ Aplicaciones multimedia
 
 ---
 
@@ -49,65 +59,50 @@ Estado     : Aprendiendo y construyendo proyectos
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jhoncenalvcmitystudy&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jhoncenalvcmitystudy&show_icons=true&theme=tokyonight&hide_border=true">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncenalvcmitystudy&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncenalvcmitystudy&layout=compact&theme=tokyonight&hide_border=true">
 
 </div>
 
 ---
 
-## ▌RACHA
+## ▌ACTIVIDAD
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncenalvcmitystudy&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncenalvcmitystudy&theme=tokyonight&hide_border=true">
 
 </div>
-
----
-
-## ▌PROYECTOS DESTACADOS
-
-◆ Android Studio
-
-◆ Python Automation
-
-◆ SQL Server
-
-◆ WhisperX + IA
-
-◆ Aplicaciones Offline
 
 ---
 
 ## ▌CONTACTO
 
-Correo:
+📧 jhon.eddy.ramirez2808@gmail.com
 
-```txt
-jhon.eddy.ramirez2808@gmail.com
-```
-
-GitHub:
-
-```txt
-https://github.com/jhoncenalvcmitystudy
-```
+🌐 https://github.com/jhoncenalvcmitystudy
 
 ---
 
 <div align="center">
 
-```txt
-██████╗██╗   ██╗ █████╗ ███╗   ██╗
-██╔════╝╚██╗ ██╔╝██╔══██╗████╗  ██║
-██║      ╚████╔╝ ███████║██╔██╗ ██║
-██║       ╚██╔╝  ██╔══██║██║╚██╗██║
-╚██████╗   ██║   ██║  ██║██║ ╚████║
- ╚═════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
+```text
+███╗   ███╗ ██╗ ████████╗██╗   ██╗
+████╗ ████║ ██║ ╚══██╔══╝╚██╗ ██╔╝
+██╔████╔██║ ██║    ██║    ╚████╔╝
+██║╚██╔╝██║ ██║    ██║     ╚██╔╝
+██║ ╚═╝ ██║ ██║    ██║      ██║
+╚═╝     ╚═╝ ╚═╝    ╚═╝      ╚═╝
+
+███████╗████████╗██╗   ██╗██████╗ ██╗ ██████╗
+██╔════╝╚══██╔══╝██║   ██║██╔══██╗██║██╔═══██╗
+███████╗   ██║   ██║   ██║██║  ██║██║██║   ██║
+╚════██║   ██║   ██║   ██║██║  ██║██║██║   ██║
+███████║   ██║   ╚██████╔╝██████╔╝██║╚██████╔╝
+╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚═════╝
 ```
 
-Cyan Developer Profile
+Building ideas into reality.
 
 </div>
