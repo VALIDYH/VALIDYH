@@ -68,9 +68,10 @@ Actualmente trabajo en:
 
 ## 📫 Contacto
 
-📧 correo@ejemplo.com
+📧 jhon.eddy.ramirez2808@gmail.com
 
-💼 GitHub: https://github.com/TU_USUARIO
+💼 GitHub: https://github.com/Mity-Devegolpe
+
 
 ---
 
