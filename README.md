@@ -1,35 +1,37 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jhoncenalvcmitystudy/jhoncenalvcmitystudy/main/assets/profile.png" width="260">
+<img src="https://raw.githubusercontent.com/jhoncenalvcmitystudy/jhoncenalvcmitystudy/main/assets/profile.png" width="240"/>
 
-# MITY-STUDIO
+# MITY VALEDDY
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Software+Developer;Android+Developer;Python+Developer;Artificial+Intelligence;Mity-Studio" />
+### Software Developer • Android Developer • AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality;Android+Applications;Artificial+Intelligence;Automation+Systems;Mity+Studio" />
 
 </div>
 
 ---
 
-## ▌PERFIL
+## ✦ About Me
 
 ```yaml
-Nombre: Jhon Eddy Ramirez Churacutipa
+Name: Jhon Eddy Ramirez Churacutipa
 Alias: Cyan
+Location: Peru
 GitHub: jhoncenalvcmitystudy
-País: Perú
 
-Intereses:
-  - Inteligencia Artificial
-  - Desarrollo Android
-  - Automatización
-  - Sistemas de Gestión
-  - Bases de Datos
-  - Videojuegos
+Focus:
+  - Artificial Intelligence
+  - Android Development
+  - Automation
+  - Database Systems
+  - Productivity Tools
+  - Multimedia Applications
 ```
 
 ---
 
-## ▌TECNOLOGÍAS
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -39,69 +41,55 @@ Intereses:
 
 ---
 
-## ▌PROYECTOS
+## 🚀 Current Projects
 
-◈ Aplicaciones Android Offline
+🔹 Android Applications
 
-◈ Sistemas de Gestión con SQL Server
+🔹 SQL Server Management Systems
 
-◈ Automatización con Python
+🔹 Python Automation Tools
 
-◈ Procesamiento de Audio con WhisperX
+🔹 WhisperX Audio Processing
 
-◈ IA aplicada a herramientas de productividad
+🔹 AI Productivity Solutions
 
-◈ Aplicaciones multimedia
+🔹 Multimedia Platforms
 
 ---
 
-## ▌ESTADÍSTICAS
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jhoncenalvcmitystudy&show_icons=true&theme=tokyonight&hide_border=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jhoncenalvcmitystudy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncenalvcmitystudy&layout=compact&theme=tokyonight&hide_border=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncenalvcmitystudy&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## ▌ACTIVIDAD
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncenalvcmitystudy&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoncenalvcmitystudy&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## ▌CONTACTO
+## 🌐 Connect
 
-📧 jhon.eddy.ramirez2808@gmail.com
+📧 [jhon.eddy.ramirez2808@gmail.com](mailto:jhon.eddy.ramirez2808@gmail.com)
 
-🌐 https://github.com/jhoncenalvcmitystudy
+💻 https://github.com/jhoncenalvcmitystudy
 
 ---
 
 <div align="center">
 
-```text
-███╗   ███╗ ██╗ ████████╗██╗   ██╗
-████╗ ████║ ██║ ╚══██╔══╝╚██╗ ██╔╝
-██╔████╔██║ ██║    ██║    ╚████╔╝
-██║╚██╔╝██║ ██║    ██║     ╚██╔╝
-██║ ╚═╝ ██║ ██║    ██║      ██║
-╚═╝     ╚═╝ ╚═╝    ╚═╝      ╚═╝
-
-███████╗████████╗██╗   ██╗██████╗ ██╗ ██████╗
-██╔════╝╚══██╔══╝██║   ██║██╔══██╗██║██╔═══██╗
-███████╗   ██║   ██║   ██║██║  ██║██║██║   ██║
-╚════██║   ██║   ██║   ██║██║  ██║██║██║   ██║
-███████║   ██║   ╚██████╔╝██████╔╝██║╚██████╔╝
-╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚═════╝
-```
+### MITY STUDIO
 
 Building ideas into reality.
 
