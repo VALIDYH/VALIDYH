@@ -15,10 +15,10 @@
 ## ✦ About Me
 
 ```yaml
-Name: Jhon Eddy Ramirez Churacutipa
-Alias: Cyan
+Name: Jhon Eddy
+Alias: VALEDDY
 Location: Peru
-GitHub: jhoncenalvcmitystudy
+GitHub: VALIDYH
 
 Focus:
   - Artificial Intelligence
@@ -83,13 +83,13 @@ Focus:
 
 📧 [jhon.eddy.ramirez2808@gmail.com](mailto:jhon.eddy.ramirez2808@gmail.com)
 
-💻 https://github.com/jhoncenalvcmitystudy
+💻 https://github.com/VALIDYH
 
 ---
 
 <div align="center">
 
-### MITY STUDIO
+### MITY VALEDDY
 
 Building ideas into reality.
 
